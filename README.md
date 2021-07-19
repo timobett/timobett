@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @timobett2shine
-- 👀 I’m interested in java programming
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on java programming projects
+- 👋 Hi, I’m @timobett
+- 👀 I’m interested programming and web development
+- 🌱 I’m currently learning all programming areas including; web and data science
+- 💞️ My goal is to be a great developer or data scientist
 - 📫 How to reach me: +254710484321
 
 <!---
